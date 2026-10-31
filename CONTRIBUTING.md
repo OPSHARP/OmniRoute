@@ -3,7 +3,6 @@
 Thanks for taking the time to contribute! 🙏
 
 ## How to Contribute
-
 1. **Fork** the repository and create a feature branch
 2. **Code** — follow the existing style and patterns
 3. **Test** — make sure everything still works
@@ -11,7 +10,6 @@ Thanks for taking the time to contribute! 🙏
 5. **Open a Pull Request** — describe what you changed and why
 
 ## Reporting Bugs
-
 Open an issue using the **Bug Report** template. Include:
 - What you expected to happen
 - What actually happened
@@ -19,13 +17,4 @@ Open an issue using the **Bug Report** template. Include:
 - Environment (OS, version, etc.)
 
 ## Suggesting Features
-
 Use the **Feature Request** template. Explain the problem you're trying to solve and why a new feature would help.
-
-## Code Review
-
-All PRs must pass CI checks. Maintainers will review within 48 hours. Be open to feedback — it's how we all get better.
-
-## Questions?
-
-Open a discussion or drop by the issues — someone will help.
