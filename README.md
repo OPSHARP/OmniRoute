@@ -1,5 +1,29 @@
 <div align="center">
 
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,0&height=220&section=header&text=OmniRoute%20AI%20Gateway&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%E2%9A%A1%20Free%20MIT%20AI%20Gateway%3A%20375%20Providers%20%26%201400%2B%20Models&descAlignY=62&descAlign=50" width="100%" alt="OmniRoute AI Gateway 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/OmniRoute">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="95" height="95" alt="OmniRoute AI Gateway 3D Icon" />
+  </a>
+
+  <h1>OmniRoute AI Gateway</h1>
+  <p><b>⚡ Free MIT AI Gateway: 375 Providers & 1400+ Models</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=typescript,nodejs,docker,cloudflare,rust&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="./docs/screenshots/MainOmniRoute.png" alt="OmniRoute Dashboard" width="820"/>
 
 <br/>
@@ -1821,3 +1845,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 </div>
 <!-- GitHub Discussions enabled for community Q&A -->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
+</div>
