@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,0&height=220&section=header&text=OmniRoute%20AI%20Gateway&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%E2%9A%A1%20Free%20MIT%20AI%20Gateway%3A%20375%20Providers%20%26%201400%2B%20Models&descAlignY=62&descAlign=50" width="100%" alt="OmniRoute AI Gateway 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,0&height=220&section=header&text=OmniRoute%20AI%20Gateway&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%E2%9A%A1%20Free%20MIT%20AI%20Gateway%3A%20375%20Providers%20%E2%80%A2%201400%2B%20Models&descAlignY=62&descAlign=50" width="100%" alt="OmniRoute AI Gateway 3D Banner" />
 
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/OmniRoute">
