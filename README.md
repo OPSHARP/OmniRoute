@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,0&height=220&section=header&text=OmniRoute%20AI%20Gateway&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%E2%9A%A1%20Free%20MIT%20AI%20Gateway%3A%20375%20Providers%20%E2%80%A2%201400%2B%20Models&descAlignY=62&descAlign=50" width="100%" alt="OmniRoute AI Gateway 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/OmniRoute">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="95" height="95" alt="OmniRoute AI Gateway 3D Icon" />
@@ -24,7 +21,7 @@
 
 <div align="center">
 
-<img src="./docs/screenshots/MainOmniRoute.png" alt="OmniRoute Dashboard" width="820"/>
+  <img src="./docs/screenshots/MainOmniRoute.png" alt="OmniRoute Dashboard" width="820"/>
 
 <br/>
 <br/>
@@ -37,7 +34,7 @@
 
 <div align="center">
 
-## 💰 ~1.62B Tokens / Month Across Third-Party Free Tiers
+  ## 💰 ~1.62B Tokens / Month Across Third-Party Free Tiers
 
 </div>
 
@@ -55,7 +52,7 @@
 
 <div align="center">
 
-<h3>
+  <h3>
 
 ⭐ Star the repo if OMNIROUTE helped you save money and make your work easier.
 
@@ -87,7 +84,7 @@
 
 <div align="center">
 
-|                           |          v3.8.50          | **v3.8.51** |      `v3.8.53+`       |
+  |                           |          v3.8.50          | **v3.8.51** |      `v3.8.53+`       |
 | ------------------------- | :-----------------------: | :---------: | :-------------------: |
 | 🌐 Providers              |            352            |   **358**   |          377          |
 | 🧠 Unique chat model IDs  |           1320            |  **1374**   |         1475          |
@@ -238,7 +235,7 @@
 
 <div align="center">
 
-<a id="first-run"></a>
+  <a id="first-run"></a>
 
 ## 🆓 Install, connect a provider, then route through one endpoint
 
@@ -262,7 +259,7 @@ curl http://localhost:20128/v1/chat/completions \
 
 <div align="center">
 
-# 💥 The Promise
+  # 💥 The Promise
 
 </div>
 
@@ -273,7 +270,7 @@ curl http://localhost:20128/v1/chat/completions \
 
 <div align="center">
 
-# 🤔 Why OmniRoute?
+  # 🤔 Why OmniRoute?
 
 </div>
 
@@ -281,7 +278,7 @@ curl http://localhost:20128/v1/chat/completions \
 
 <div align="center">
 
-<img src="./docs/diagrams/tier-cascade.svg" width="100%" alt="OmniRoute request flow: your IDE or CLI (Claude Code, Cursor, Cline…) calls one local endpoint (http://localhost:20128/v1); the OmniRoute Smart Router (RTK + Caveman compression, 20 routing strategies, circuit breakers, TLS stealth, MCP, A2A, guardrails) can fall back across 4 provider tiers while an eligible healthy target remains — Tier 1 Subscription, Tier 2 API Key, Tier 3 Cheap and Tier 4 Free."/>
+  <img src="./docs/diagrams/tier-cascade.svg" width="100%" alt="OmniRoute request flow: your IDE or CLI (Claude Code, Cursor, Cline…) calls one local endpoint (http://localhost:20128/v1); the OmniRoute Smart Router (RTK + Caveman compression, 20 routing strategies, circuit breakers, TLS stealth, MCP, A2A, guardrails) can fall back across 4 provider tiers while an eligible healthy target remains — Tier 1 Subscription, Tier 2 API Key, Tier 3 Cheap and Tier 4 Free."/>
 
 </div>
 
@@ -289,7 +286,7 @@ curl http://localhost:20128/v1/chat/completions \
 
 <div align="center">
 
-## 🤝 Supported by our Open Source Friends
+  ## 🤝 Supported by our Open Source Friends
 
 </div>
 
@@ -368,7 +365,7 @@ curl http://localhost:20128/v1/chat/completions \
 
 <div align="center">
 
-## 🎯 Combos — The Flagship
+  ## 🎯 Combos — The Flagship
 
 </div>
 
@@ -522,7 +519,7 @@ All **20** strategies — mix & match per combo step:
 
 <div align="center">
 
-## 🏆 What Sets OmniRoute Apart
+  ## 🏆 What Sets OmniRoute Apart
 
 </div>
 
@@ -601,7 +598,7 @@ the current catalog at **[radar.omniroute.online/planos](https://radar.omniroute
 
 <div align="center">
 
-## ✨ What's New
+  ## ✨ What's New
 
 </div>
 
@@ -639,7 +636,7 @@ the current catalog at **[radar.omniroute.online/planos](https://radar.omniroute
 
 <div align="center">
 
-## 🤖 Compatible CLIs & Coding Agents
+  ## 🤖 Compatible CLIs & Coding Agents
 
 > One config — `http://localhost:20128/v1` — and **every** AI IDE or CLI runs on free & low-cost models.
 
@@ -714,7 +711,7 @@ of your shell history. → [CLI Integrations](docs/guides/CLI-INTEGRATIONS.md)
 
 <div align="center">
 
-## 🌐 377 AI Providers — 153 Catalog-Marked Free
+  ## 🌐 377 AI Providers — 153 Catalog-Marked Free
 
 </div>
 
@@ -722,7 +719,7 @@ of your shell history. → [CLI Integrations](docs/guides/CLI-INTEGRATIONS.md)
 
 <div align="center">
 
-### 🏢 Every major lab — through one endpoint
+  ### 🏢 Every major lab — through one endpoint
 
 <table>
   <tr>
@@ -783,7 +780,7 @@ of your shell history. → [CLI Integrations](docs/guides/CLI-INTEGRATIONS.md)
 
 <div align="center">
 
-## 🖥️ Where OmniRoute Runs — Anywhere
+  ## 🖥️ Where OmniRoute Runs — Anywhere
 
 </div>
 
@@ -810,7 +807,7 @@ of your shell history. → [CLI Integrations](docs/guides/CLI-INTEGRATIONS.md)
 
 <div align="center">
 
-### 🧩 New: OmniRoute inside VS Code's native Copilot Chat
+  ### 🧩 New: OmniRoute inside VS Code's native Copilot Chat
 
 </div>
 
@@ -839,7 +836,7 @@ From inside the editor: open the **Extensions** view, search **"OmniRoute"**, cl
 
 <div align="center">
 
-### 🎩 New: OmniRouteTray — your gateway, living in the menu bar
+  ### 🎩 New: OmniRouteTray — your gateway, living in the menu bar
 
 </div>
 
@@ -875,7 +872,7 @@ docs live at <a href="https://github.com/zoispag/omniroute-tray">zoispag/omnirou
 
 <div align="center">
 
-## 🔒 Private & Local-First
+  ## 🔒 Private & Local-First
 
 </div>
 
@@ -887,7 +884,7 @@ docs live at <a href="https://github.com/zoispag/omniroute-tray">zoispag/omnirou
 
 <div align="center">
 
-## 🔌 Full CLI + A2A & MCP
+  ## 🔌 Full CLI + A2A & MCP
 
 </div>
 
@@ -950,7 +947,7 @@ claude mcp add-server omniroute --type http --url http://localhost:20128/api/mcp
 
 <div align="center">
 
-## 🗜️ Save 15–95% Tokens — Automatically
+  ## 🗜️ Save 15–95% Tokens — Automatically
 
 </div>
 
@@ -1041,7 +1038,7 @@ Auto-trigger by token threshold, flip on the adaptive dial, pin a named profile,
 
 <div align="center">
 
-# ⚡ Quick Start
+  # ⚡ Quick Start
 
 </div>
 
@@ -1230,7 +1227,7 @@ same process on one port, so there is no separate CLI-only package today.
 
 <div align="center">
 
-# 🎬 OmniRoute in Action
+  # 🎬 OmniRoute in Action
 
 </div>
 
@@ -1238,7 +1235,7 @@ same process on one port, so there is no separate CLI-only package today.
 
 <div align="center">
 
-<sub>Snapshot do painel em 2026-10-18 · Catálogo bruto: YT 1.352 | TT 334 | IG 290 · Frescor (dias): YT 5 | TT 48 | IG 49</sub>
+  <sub>Snapshot do painel em 2026-10-18 · Catálogo bruto: YT 1.352 | TT 334 | IG 290 · Frescor (dias): YT 5 | TT 48 | IG 49</sub>
 
 <table>
   <tr>
@@ -1300,7 +1297,7 @@ Métricas canônicas em 2026-10-18: **1.976 vídeos únicos** · **20.220.289 vi
 
 <div align="center">
 
-# 📧 Community & Help
+  # 📧 Community & Help
 
 > Everything in one place — follow the maintainer, chat with the community, or open an issue.
 
@@ -1326,7 +1323,7 @@ Métricas canônicas em 2026-10-18: **1.976 vídeos únicos** · **20.220.289 vi
 <br/>
 <div align="center">
 
-## 🛠️ Tech Stack
+  ## 🛠️ Tech Stack
 
 </div>
 
@@ -1353,7 +1350,7 @@ Métricas canônicas em 2026-10-18: **1.976 vídeos únicos** · **20.220.289 vi
 
 <div align="center">
 
-<br/>
+  <br/>
 
 ## 📖 Documentation
 
@@ -1432,7 +1429,7 @@ Métricas canônicas em 2026-10-18: **1.976 vídeos únicos** · **20.220.289 vi
 
 <div align="center">
 
-# ⭐ Top Contributors
+  # ⭐ Top Contributors
 
 > OmniRoute is shaped by a passionate open-source community. These individuals have made exceptional contributions that directly impact the quality, stability, and reach of the project. **Thank you.**
 
@@ -1564,7 +1561,7 @@ Métricas canônicas em 2026-10-18: **1.976 vídeos únicos** · **20.220.289 vi
 
 <div align="center">
 
-A heartfelt thank-you to the people who fund OmniRoute out of their own pocket — every contribution keeps the project free, independent and moving.
+  A heartfelt thank-you to the people who fund OmniRoute out of their own pocket — every contribution keeps the project free, independent and moving.
 
 <table>
   <tr>
@@ -1662,7 +1659,7 @@ A heartfelt thank-you to the people who fund OmniRoute out of their own pocket �
 
 <div align="center">
 
-## 👥 900+ Contributors
+  ## 👥 900+ Contributors
 
 </div>
 
@@ -1693,7 +1690,7 @@ gh release create "v${VERSION}" --title "v${VERSION}" --generate-notes
 
 <div align="center">
 
-## 📊 Stars
+  ## 📊 Stars
 
 <a href="https://www.star-history.com/?repos=diegosouzapw%2FOmniRoute&type=date&legend=top-left">
  <picture>
@@ -1707,7 +1704,7 @@ gh release create "v${VERSION}" --title "v${VERSION}" --generate-notes
 
 <div align="center">
 
-## 🌍 StarMapper
+  ## 🌍 StarMapper
 
 <a href="https://starmapper.bruniaux.com/diegosouzapw/omniroute">
   <picture>
@@ -1722,7 +1719,7 @@ gh release create "v${VERSION}" --title "v${VERSION}" --generate-notes
 
 <div align="center">
 
-## 🙏 Acknowledgments
+  ## 🙏 Acknowledgments
 
 </div>
 
@@ -1839,15 +1836,11 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-**[⬆ Back to top](#-omniroute)** · Built with ❤️ for the open-source AI community.
+  **[⬆ Back to top](#-omniroute)** · Built with ❤️ for the open-source AI community.
 
 <sub>OmniRoute v3.8.53 · Node ≥22.22.2 · MIT License · <a href="https://omniroute.online">omniroute.online</a></sub>
 
 </div>
 <!-- GitHub Discussions enabled for community Q&A -->
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
